@@ -912,3 +912,4 @@
 ### [v1 (2016.8.3)](https://xdaforums.com/t/magisk-general-support-discussion.3432382/post-68034103)
 
 - Initial release
+<img width="960" height="1280" alt="38528" src="https://github.com/user-attachments/assets/79741b88-4ded-4fbe-812f-3bc671c88e64" />
